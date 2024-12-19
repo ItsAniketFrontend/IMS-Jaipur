@@ -192,7 +192,12 @@ header{
         padding: 20px;
         box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
         -webkit-box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
-        
+        height: 100%;
+        p{
+            @media (max-width:991px) {
+                font-size: 10px;
+            }
+        }
     }
     
 }
