@@ -181,6 +181,18 @@ header button a {
   box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
 }
 
+.centers {
+  padding: 50px 0px;
+  background-color: #222222;
+}
+.centers .col-box {
+  background-color: #fff;
+  border-radius: 30px;
+  padding: 20px;
+  box-shadow: -1px 0px 44px 15px rgba(0, 0, 0, 0.06);
+  -webkit-box-shadow: -1px 0px 44px 15px rgba(0, 0, 0, 0.06);
+}
+
 .overlay {
   position: fixed;
   top: 0;

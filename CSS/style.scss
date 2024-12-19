@@ -183,6 +183,20 @@ header{
     }
 }
 
+.centers{
+    padding: 50px 0px;
+    background-color: #222222;
+    .col-box{
+        background-color: #fff;
+        border-radius: 30px;
+        padding: 20px;
+        box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
+        -webkit-box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
+        
+    }
+    
+}
+
 .overlay {
     position: fixed;
     top: 0;
