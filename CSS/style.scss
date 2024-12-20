@@ -90,6 +90,11 @@ header{
                 font-size: 10px;
             }
         }
+        h4{
+            @media (max-width:991px) {
+                font-size: 17px;
+            }
+        }
     }
 }
 
@@ -359,7 +364,4 @@ header{
     bottom: 35%;
     right: 0px !important;
     width: 100%;
-    a{
-        
-    }
 }

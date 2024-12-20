@@ -92,6 +92,11 @@ header button a {
     font-size: 10px;
   }
 }
+@media (max-width: 991px) {
+  .usps .col-box h4 {
+    font-size: 17px;
+  }
+}
 
 .about {
   padding: 50px 0px;
