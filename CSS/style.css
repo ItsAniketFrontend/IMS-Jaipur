@@ -346,4 +346,11 @@ header button a {
   border: none;
   text-transform: uppercase;
   font-weight: 800;
+}
+
+.call-btn {
+  position: fixed;
+  bottom: 35%;
+  right: 0px !important;
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
