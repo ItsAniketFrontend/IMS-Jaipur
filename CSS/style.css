@@ -294,6 +294,20 @@ header button a {
     padding: 50px 60px;
   }
 }
+.exams-provide .col-box {
+  background-color: #fff;
+  border-radius: 30px;
+  padding: 20px;
+  box-shadow: -1px 0px 44px 15px rgba(0, 0, 0, 0.06);
+  -webkit-box-shadow: -1px 0px 44px 15px rgba(0, 0, 0, 0.06);
+  height: 100%;
+}
+@media (max-width: 991px) {
+  .exams-provide .col-box p {
+    font-size: 10px;
+  }
+}
+
 .foot {
   background-color: #222222;
   padding: 10px;

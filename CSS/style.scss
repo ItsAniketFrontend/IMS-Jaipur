@@ -301,6 +301,22 @@ header{
     }
 }
 
+.exams-provide{
+    .col-box{
+        background-color: #fff;
+        border-radius: 30px;
+        padding: 20px;
+        box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
+        -webkit-box-shadow: -1px 0px 44px 15px rgb(0 0 0 / 6%);
+        height: 100%;
+        p{
+            @media (max-width:991px) {
+                font-size: 10px;
+            }
+        }
+    }
+}
+
 .foot{
     background-color: #222222;
     padding: 10px;
