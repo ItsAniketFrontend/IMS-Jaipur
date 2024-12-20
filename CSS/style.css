@@ -198,6 +198,14 @@ header button a {
     font-size: 10px;
   }
 }
+.centers iframe {
+  height: 250px;
+}
+@media (max-width: 991px) {
+  .centers iframe {
+    height: 150px;
+  }
+}
 
 .overlay {
   position: fixed;

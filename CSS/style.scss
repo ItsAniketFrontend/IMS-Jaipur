@@ -199,7 +199,12 @@ header{
             }
         }
     }
-    
+    iframe{
+        height: 250px;
+        @media (max-width:991px) {
+            height: 150px;
+        }
+    }
 }
 
 .overlay {
@@ -327,6 +332,7 @@ header{
         margin-bottom: 0px;
     }
 }
+
 
 .fixed-btn{
     position: fixed;
