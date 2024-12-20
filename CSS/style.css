@@ -147,6 +147,11 @@ header button a {
   font-weight: 600;
   color: #BF3014;
 }
+@media (max-width: 991px) {
+  .why-choose h4 {
+    font-size: 26px;
+  }
+}
 
 .faq img {
   border-radius: 100%;
