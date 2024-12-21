@@ -329,7 +329,12 @@ header button a {
 .foot {
   background-color: #222222;
   padding: 10px;
-  margin-top: 50px;
+  margin-top: 0px;
+}
+.foot hr {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: #fff;
 }
 .foot p {
   color: #fff;

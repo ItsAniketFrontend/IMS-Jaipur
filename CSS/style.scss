@@ -157,6 +157,8 @@ header{
     }
 }
 
+
+
 .faq{
     img{
         border-radius: 100%;
@@ -331,10 +333,18 @@ header{
     }
 }
 
+footer{
+    
+}
 .foot{
+    hr{
+        color: #fff;
+        border: 1px solid #fff;
+        background-color: #fff;
+    }
     background-color: #222222;
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 0px;
     p{
         color: #fff;
         text-align: center;
