@@ -216,6 +216,10 @@ header button a {
     height: 150px;
   }
 }
+.centers h4 a {
+  color: #000;
+  text-decoration: none;
+}
 
 .overlay {
   position: fixed;
