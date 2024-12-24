@@ -372,6 +372,9 @@ header{
     position: fixed;
     right: 0px !important;
     top: 65%;
+    @media (max-width:991px) {
+        top: 85%;
+    }
     width: auto;
     height: 100%;  
 }

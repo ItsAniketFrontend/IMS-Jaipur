@@ -368,4 +368,9 @@ header button a {
   top: 65%;
   width: auto;
   height: 100%;
+}
+@media (max-width: 991px) {
+  .call-btn a {
+    top: 85%;
+  }
 }/*# sourceMappingURL=style.css.map */
