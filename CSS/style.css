@@ -347,9 +347,6 @@ header button a {
 }
 
 .fixed-btn {
-  position: fixed;
-  bottom: 50%;
-  right: 50px !important;
   width: 100%;
 }
 .fixed-btn button {
@@ -358,15 +355,17 @@ header button a {
   padding: 10px 20px;
   color: #fff;
   border: none;
+  position: fixed;
+  top: 50%;
+  right: -40px !important;
   text-transform: uppercase;
   font-weight: 800;
 }
 
-.call-btn {
+.call-btn a {
   position: fixed;
-  bottom: 35%;
   right: 0px !important;
-  width: 100%;
+  top: 65%;
+  width: auto;
   height: 100%;
-  line-height: 200px;
 }/*# sourceMappingURL=style.css.map */
